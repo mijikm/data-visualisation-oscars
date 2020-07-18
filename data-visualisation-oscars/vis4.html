@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Movies and the Academy Awards</title>
+        <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript" src="vis4.js"></script>  
+        <meta charset="utf-8"/>
+    </head>
+   
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" >Overview</a></li>
+                <li><a href="vis1.html">Vis1</a></li>
+                <li><a href="vis2.html">Vis2</a></li>
+                <li><a href="vis3.html">Vis3</a></li>
+                <li><a href="vis4.html" class="active-page">Vis4</a></li>
+            </ul>
+        </nav>
+
+        <h1><span>Movies & the Academy Awards</span></h1>
+        <h2>Vis4</h2>
+        <p id=desc1>The violin plot with jitter displays IMDb score/runtime of movies classified by genres. It is arranged in a descending order<br>based on the median IMDb score/runtime. Movies classified as Adventure genre had the highest median IMDb score of 7.9,<br>while those classified as Western had the highest median runtime from 1930 to 2014.<br></p>
+        <p id=desc2><span style="background-color:#f3771e;">To interact:</span></p><p id=desc3>- Select period/y-axis value/sorting order from a drop-down list below.<br>- Hover over a data point to see details.<br>- Hover over a chart and zoom with mouse wheel.</p>
+        <p id=desc4><span style="background-color:#f3771e;">Top 10:</span></p>
+        <p id=selectButtonDesc>Select period:</p>
+        
+        <p id=selectButtonDesc2>Select y-axis:</p>
+        <p id=selectButtonDesc4>Sort by:</p>
+        
+        <select id=selectButton style="width:100px; height:30px"></select>
+        <select id=selectButton2 style="width:100px; height:30px"></select>
+        <select id=selectButton3 style="width:100px; height:30px"></select>
+        
+        <div>
+            <svg id=svgBody3_title width=5 height=70></svg>
+        </div>
+        <div>
+            <svg id=svgBody3_legend width=400 height=300></svg>
+        </div>
+        <div>
+            <svg id=svgBody3 width=1500 height=800></svg>
+            <rect></rect>
+        </div>
+     
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    </body>
+</html>

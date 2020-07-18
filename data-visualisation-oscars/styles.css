@@ -1,0 +1,579 @@
+li {
+    float: left;
+    left: 1150px;
+    top: 20px;
+    color: black;
+    font-family: Helvetica;
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 15px;
+    position: relative;
+    
+}
+
+ul li a.active-page
+{
+    color: #3aa2b7;
+    background-color: transparent;
+    text-decoration: none;
+    
+}
+
+a.startPage:visited {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+a.startPage:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.startPage:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited{
+    color: #6c6b6b;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #3aa2b7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:focus {
+  color: #3aa2b7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+}
+
+li a {
+  text-decoration: none !important;
+  color: #6c6b6b;
+  background-color: transparent;
+  text-decoration: none;
+
+}
+
+h1 { 
+
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    left: -235px;
+    top: 30px;
+    position: relative;
+    margin: 1;
+    
+}
+
+h1 span {
+    background-color: #212121;     
+}
+
+h2.firstPage { 
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+    left: 95px;
+    top: 65px;
+    position: relative;
+    margin: 1;
+    
+}
+
+
+h2 { 
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+    left: 95px;
+    top: 45px;
+    position: relative;
+    margin: 1;
+    
+}
+
+p {
+  margin: 0;
+  overflow: visible;
+  line-height: 1.3;
+}
+
+
+
+svg {
+    
+    overflow: visible;
+}
+
+#descOverview {
+    color: white;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    left: 85px;
+    top: -275px;
+    position: relative;
+    line-height: 1.6;
+}
+
+#descOverview-1 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 85px;
+    top: -275px;
+    position: relative;
+    line-height: 1.6;
+}
+
+
+#descInd {
+    color: white;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    left: 95px;
+    top: 50px;
+    position: relative;
+    line-height: 1.6;
+}
+
+ #descInd1 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 50px;
+    position: relative;
+    line-height: 1.3;
+}
+
+#desc1 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 30px;
+    position: relative;
+    line-height: 1.3;
+}
+
+#desc2 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    left: 95px;
+    top: 50px;
+    position: relative;
+    line-height: 1.6;
+}
+
+#desc3 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 50px;
+    position: relative;
+    line-height: 1.3;
+}
+
+#desc4 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    left: 1155px;
+    top: -135px;
+    position: relative;
+    line-height: 1.6;
+}
+
+#descInd0, #desc {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 30px;
+    position: relative;
+    line-height: 1.3;
+}
+
+#descOver {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 80px;
+    position: relative;
+    line-height: 1.3;
+}
+
+#buttonDesc {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 95px;
+    top: 85px;
+    position: relative;
+}
+
+#selectButton {
+    left: 95px;
+    top: 90px;
+    position: relative;
+}
+
+#selectButton2 {
+    left: 108px;
+    top: 90px;
+    position: relative;
+}
+
+#selectButton3 {
+    left: 122px;
+    top: 90px;
+    position: relative;
+}
+
+
+#selectButtonDesc {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 103px;
+    top: 355px;
+    position: absolute;
+}
+
+#selectButtonDesc2 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 220px;
+    top: 355px;
+    position: absolute;
+}
+
+#selectButtonDesc3 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 103px;
+    top: 362px;
+    position: absolute;
+}
+
+#selectButtonDesc4 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 14px;
+    left: 337px;
+    top: 355px;
+    position: absolute;
+}
+
+#button0, #button0:active, #button0:focus {
+    background: white;
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 12px;
+    left: 355px;
+    top: 100px;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 6px 12px;
+    border: 1px solid black;
+    border-color: #0D47A1;
+    transition-duration: 0.4s;
+    margin: 0;
+    cursor: pointer;
+    box-shadow: 0 3px #999;
+    
+}
+
+#button1 {
+    background: white;
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 12px;
+    left: 95px;
+    top: 90px;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 6px 12px;
+    border: 1px solid black;
+    border-color: #0D47A1;
+    transition-duration: 0.4s;
+    margin: 0;
+    cursor: pointer;
+    box-shadow: 0 3px #999;
+    
+}
+
+#button2 {
+    background: white;
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 12px;
+    left: 95px;
+    top: 100px;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 6px 12px;
+    border: 1px solid black;
+    transition-duration: 0.4s;
+    margin: 0;
+    cursor: pointer;
+    box-shadow: 0 3px #999;
+}
+
+
+#button3 {
+    background: white;
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 12px;
+    left: 95px;
+    top: 88px;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 6px 12px;
+    border: 1px solid black;
+    border-color: #0D47A1;
+    transition-duration: 0.4s;
+    margin: 0;
+    cursor: pointer;
+    box-shadow: 0 3px #999;
+    
+}
+
+#button4 {
+    background: white;
+    color: #212121;
+    font-family: Helvetica;
+    font-size: 12px;
+    left: 235px;
+    top: 60px;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 6px 12px;
+    border: 1px solid black;
+    transition-duration: 0.4s;
+    margin: 0;
+    cursor: pointer;
+    box-shadow: 0 3px #999;
+}
+
+#button1:active, #button2:active, #button3:active, #button4:active{
+    color: white;
+    background: #212121;
+    border: 1px solid black;
+}
+
+#button1:focus, #button2:focus, #button3:focus, #button4:focus{
+    color: white;
+    background: #212121;
+    border: 1px solid black;
+}
+
+#button0:hover, #button1:hover, #button2:hover, #button3:hover, #button4:hover {
+  background-color: #212121;
+  color: white;
+  border: 1px solid black;
+}
+
+.yAxis text {
+    font-size: 8px;
+}
+
+.xAxis text {
+    font-size: 8px;
+}
+
+#svgBody{
+    left: 200px;
+    top: 340px;
+    position: absolute;
+}
+
+#svgBody_title{
+    left: 250px;
+    top: 350px;
+    position: absolute;
+    font: 18px Helvetica;	
+    font-weight: bold;
+}
+
+
+#svgBody1{
+    left: 160px;
+    top: 340px;
+    position: absolute;
+}
+
+#svgBody1_title{
+    left: 250px;
+    top: 360px;
+    position: absolute;
+    font: 18px Helvetica;	
+    font-weight: bold;
+}
+
+#svgBody1_legend{
+    left: 950px;
+    top: 360px;
+    position: absolute;
+    font: 9px Helvetica;		
+}
+
+#svgBody2 {
+    left: 130px;
+    top: 420px;
+    position: absolute;
+}
+
+#svgBody2_title{
+    left: 190px;
+    top: 360px;
+    position: absolute;
+    font: 18px Helvetica;	
+    font-weight: bold;
+}
+
+#svgBody2_legend{
+    left: 980px;
+    top: 230px;
+    position: absolute;
+    font: 12px Helvetica;		
+}
+
+#svgBody3{
+    left: 100px;
+    top: 420px;
+    position: absolute;
+}
+
+#svgBody3_legend{
+    left: 1100px;
+    top: 370px;
+    position: absolute;
+    font: 10px Helvetica;		
+}
+
+#svgBody3_title{
+    left: 100px;
+    top: 360px;
+    position: absolute;
+    font: 18px Helvetica;	
+    font-weight: bold;
+}
+
+
+div.tooltip {	
+    position: absolute;			
+    text-align: left;			
+    white-space: nowrap;	
+    padding: 2px;				
+    font: 10px Verdana;		
+    background: #6c6b6b;
+    color: white;
+    border: 1px solid black;	
+    border-radius: 4px;			
+    pointer-events: none;
+}
+
+div1.tooltip1 {	
+    position: absolute;			
+    text-align: left;	
+    white-space: nowrap;	
+    padding: 2px;				
+    font: 10px Verdana;		
+    background: #6c6b6b;
+    color: white;
+    border: 1px solid black;	
+    border-radius: 4px;			
+    pointer-events: none;
+}
+
+div2.tooltip2 {	
+    position: absolute;			
+    text-align: left;	
+    white-space: nowrap;	
+    padding: 2px;				
+    font: 10px Verdana;		
+    background: white;
+    color: black;
+    border: 1px solid black;	
+    border-radius: 4px;			
+    pointer-events: none;
+}
+
+div3.tooltip3 {	
+    position: absolute;			
+    text-align: left;	
+    white-space: nowrap;	
+    padding: 2px;				
+    font: 10px Verdana;		
+    background: white;
+    color: black;
+    border: 1px solid black;	
+    border-radius: 4px;			
+    pointer-events: none;
+}
+
+div4.tooltip4 {	
+    position: absolute;			
+    text-align: left;			
+    white-space: nowrap;	
+    padding: 2px;				
+    font: 10px Verdana;		
+    background: #6c6b6b;
+    color: white;
+    border: 1px solid black;	
+    border-radius: 4px;			
+    pointer-events: none;
+}
+
+div5.tooltip5 {	
+    position: absolute;			
+    text-align: left;			
+    white-space: nowrap;	
+    padding: 15px;				
+    font: 14px Helvetica;		
+    background: none;
+    color: black;
+    border: none;	
+    border-radius: 0px;			
+    pointer-events: none;
+    left: 1150px;
+    top: 140px;
+    line-height: 1.3;
+}
