@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Movies and the Academy Awards</title>
+        <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript" src="vis3.js"></script>    
+        <meta charset="utf-8"/>
+    </head>
+   
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" >Overview</a></li>
+                <li><a href="vis1.html">Vis1</a></li>
+                <li><a href="vis2.html">Vis2</a></li>
+                <li><a href="vis3.html" class="active-page">Vis3</a></li>
+                <li><a href="vis4.html">Vis4</a></li>
+            </ul>
+        </nav>
+
+        <h1><span>Movies & the Academy Awards</span></h1>
+        <h2>Vis3</h2>
+        <p id=desc1>The heatmap represents genres of the movies that won the Academy Awards from 1930 to 2014.<br>Among 20 genres, Drama performed best at the Academy Awards, taking up around 60%,<br>while Horror performed least taking up around 0.08%.<br><br>A movie may have more than one genre classification.</p><br>
+        <p id=desc2><span style="background-color:#f3771e;">To interact:</span></p><p id=desc3>- Hover over a square to see details.<br>- Click the button below to sort.</p>
+        
+        <p id=selectButtonDesc3>Sort by:</p>
+    
+        
+        <button id="button3">Descending Order</button>
+        <button id="button4">Ascending Order</button>
+        
+        <div>
+            <svg id=svgBody2_title width=5 height=70></svg>
+        </div>
+        
+        <div>
+            <svg id=svgBody2_legend width=400 height=300></svg>
+        </div>
+        
+        <div>
+            <svg id=svgBody2 width=1500 height=600></svg>
+        </div>
+        
+
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    </body>
+</html>

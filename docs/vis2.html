@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Movies and the Academy Awards</title>
+        <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript" src="vis2.js"></script>
+        <meta charset="utf-8"/>
+    </head>
+   
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" >Overview</a></li>
+                <li><a href="vis1.html">Vis1</a></li>
+                <li><a href="vis2.html" class="active-page">Vis2</a></li>
+                <li><a href="vis3.html">Vis3</a></li>
+                <li><a href="vis4.html">Vis4</a></li>
+            </ul>
+        </nav>
+
+        <h1><span>Movies & the Academy Awards</span></h1>
+        <h2>Vis2</h2>
+        <p id=desc1>The boxplot shows IMDb score of movies that won the Academy Awards from 1930 to 2014 across awards.<br><br>The IMDb score ranges between 5.6 to 9.2 across awards and the highest median IMDb score of 7.9 is observed in Best Director,<br>while the lowest of 7.4 is observed in Best Supporting Actress.</p><br>
+        <p id=desc2><span style="background-color:#f3771e;">To interact:</span></p><p id=desc3>- Hover over a box to see details.<br>- Hover over a data point to identify corresponding period.<br>- Hover over a plot and zoom with mouse wheel.</p>
+        
+        <div >
+            <svg id=svgBody1_title width=500 height=500></svg>
+        </div>
+        
+        <div >
+            <svg id=svgBody1_legend width=500 height=500></svg>
+        </div>
+        
+        <div id=svgBody1>
+            
+        </div>
+        
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    </body>
+</html>

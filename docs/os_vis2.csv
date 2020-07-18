@@ -1,0 +1,774 @@
+"movie","year_of_award","avg_vote","genre","duration","country","period","count","sumMovies"
+"12 Years A Slave",2014,8.1,"Biography",134,"USA, UK","1998 - 2014",3,147
+"12 Years A Slave",2014,8.1,"Drama",134,"USA, UK","1998 - 2014",5,1755
+"12 Years A Slave",2014,8.1,"History",134,"USA, UK","1998 - 2014",1,80
+"A Beautiful Mind",2002,8.2,"Biography",135,"USA","1998 - 2014",3,147
+"A Beautiful Mind",2002,8.2,"Drama",135,"USA","1998 - 2014",5,1755
+"A Double Life",1948,7,"Crime",104,"USA","1947 - 1963",1,126
+"A Double Life",1948,7,"Drama",104,"USA","1947 - 1963",5,1755
+"A Double Life",1948,7,"Film-Noir",104,"USA","1947 - 1963",1,16
+"A Fish Called Wanda",1989,7.5,"Comedy",108,"UK, USA","1981 - 1997",1,161
+"A Fish Called Wanda",1989,7.5,"Crime",108,"UK, USA","1981 - 1997",2,126
+"A Free Soul",1931,6.7,"Crime",93,"USA","1930 - 1946",1,126
+"A Free Soul",1931,6.7,"Drama",93,"USA","1930 - 1946",3,1755
+"A Free Soul",1931,6.7,"Romance",93,"USA","1930 - 1946",1,336
+"A Letter To Three Wives",1950,7.8,"Drama",103,"USA","1947 - 1963",5,1755
+"A Letter To Three Wives",1950,7.8,"Romance",103,"USA","1947 - 1963",2,336
+"A Man For All Seasons",1967,7.7,"Biography",120,"UK","1964 - 1980",2,147
+"A Man For All Seasons",1967,7.7,"Drama",120,"UK","1964 - 1980",4,1755
+"A Man For All Seasons",1967,7.7,"History",120,"UK","1964 - 1980",2,80
+"A Passage To India",1985,7.3,"Adventure",164,"UK, USA","1981 - 1997",1,38
+"A Passage To India",1985,7.3,"Drama",164,"UK, USA","1981 - 1997",5,1755
+"A Passage To India",1985,7.3,"History",164,"UK, USA","1981 - 1997",4,80
+"A Patch Of Blue",1966,8,"Drama",105,"USA","1964 - 1980",4,1755
+"A Patch Of Blue",1966,8,"Romance",105,"USA","1964 - 1980",4,336
+"A Place In The Sun",1952,7.8,"Drama",122,"USA","1947 - 1963",5,1755
+"A Place In The Sun",1952,7.8,"Romance",122,"USA","1947 - 1963",2,336
+"A Streetcar Named Desire",1952,8,"Drama",122,"USA","1947 - 1963",5,1755
+"A Thousand Clowns",1966,7.4,"Comedy",118,"USA","1964 - 1980",2,161
+"A Thousand Clowns",1966,7.4,"Drama",118,"USA","1964 - 1980",4,1755
+"A Thousand Clowns",1966,7.4,"Romance",118,"USA","1964 - 1980",4,336
+"A Touch Of Class",1974,6.5,"Comedy",106,"UK","1964 - 1980",4,161
+"A Touch Of Class",1974,6.5,"Romance",106,"UK","1964 - 1980",1,336
+"A Tree Grows In Brooklyn",1946,8,"Drama",129,"USA","1930 - 1946",5,1755
+"A Tree Grows In Brooklyn",1946,8,"Romance",129,"USA","1930 - 1946",1,336
+"Affliction",1999,7,"Drama",114,"USA, Canada, Japan","1998 - 2014",5,1755
+"Affliction",1999,7,"Mystery",114,"USA, Canada, Japan","1998 - 2014",1,16
+"Affliction",1999,7,"Thriller",114,"USA, Canada, Japan","1998 - 2014",1,41
+"Airport",1971,6.6,"Action",137,"USA","1964 - 1980",1,11
+"Airport",1971,6.6,"Drama",137,"USA","1964 - 1980",5,1755
+"Airport",1971,6.6,"Thriller",137,"USA","1964 - 1980",1,41
+"Alice Doesn't Live Here Anymore",1975,7.3,"Drama",112,"USA","1964 - 1980",5,1755
+"Alice Doesn't Live Here Anymore",1975,7.3,"Romance",112,"USA","1964 - 1980",1,336
+"All About Eve",1951,8.2,"Drama",138,"USA","1947 - 1963",5,1755
+"All Quiet On The Western Front",1931,8,"Drama",136,"USA","1930 - 1946",3,1755
+"All Quiet On The Western Front",1931,8,"War",136,"USA","1930 - 1946",1,83
+"All The King's Men",1950,7.5,"Drama",110,"USA","1947 - 1963",5,1755
+"All The King's Men",1950,7.5,"Film-Noir",110,"USA","1947 - 1963",2,16
+"All The President's Men",1977,8,"Biography",138,"USA","1964 - 1980",1,147
+"All The President's Men",1977,8,"Drama",138,"USA","1964 - 1980",5,1755
+"All The President's Men",1977,8,"History",138,"USA","1964 - 1980",1,80
+"American Beauty",2000,8.3,"Drama",122,"USA","1998 - 2014",5,1755
+"An Officer And A Gentleman",1983,7,"Drama",124,"USA","1981 - 1997",5,1755
+"An Officer And A Gentleman",1983,7,"Romance",124,"USA","1981 - 1997",3,336
+"Anastasia",1957,7,"Biography",105,"USA","1947 - 1963",3,147
+"Anastasia",1957,7,"Drama",105,"USA","1947 - 1963",5,1755
+"Anastasia",1957,7,"History",105,"USA","1947 - 1963",1,80
+"Annie Hall",1978,8,"Comedy",93,"USA","1964 - 1980",3,161
+"Annie Hall",1978,8,"Romance",93,"USA","1964 - 1980",3,336
+"Anthony Adverse",1937,6.3,"Adventure",141,"USA","1930 - 1946",1,38
+"Anthony Adverse",1937,6.3,"Drama",141,"USA","1930 - 1946",5,1755
+"Anthony Adverse",1937,6.3,"Romance",141,"USA","1930 - 1946",3,336
+"Arthur",1982,6.9,"Comedy",97,"USA","1981 - 1997",1,161
+"Arthur",1982,6.9,"Romance",97,"USA","1981 - 1997",1,336
+"As Good As It Gets",1998,7.7,"Comedy",139,"USA","1998 - 2014",2,161
+"As Good As It Gets",1998,7.7,"Drama",139,"USA","1998 - 2014",5,1755
+"As Good As It Gets",1998,7.7,"Romance",139,"USA","1998 - 2014",4,336
+"Bad Girl",1933,6.5,"Drama",90,"USA","1930 - 1946",3,1755
+"Bad Girl",1933,6.5,"Romance",90,"USA","1930 - 1946",1,336
+"Ben-Hur",1960,8.1,"Adventure",212,"USA","1947 - 1963",3,38
+"Ben-Hur",1960,8.1,"Drama",212,"USA","1947 - 1963",5,1755
+"Ben-Hur",1960,8.1,"History",212,"USA","1947 - 1963",3,80
+"Black Swan",2011,8,"Drama",108,"USA","1998 - 2014",5,1755
+"Black Swan",2011,8,"Thriller",108,"USA","1998 - 2014",1,41
+"Blue Jasmine",2014,7.3,"Drama",98,"USA","1998 - 2014",5,1755
+"Blue Sky",1995,6.4,"Drama",101,"USA","1981 - 1997",4,1755
+"Blue Sky",1995,6.4,"Romance",101,"USA","1981 - 1997",3,336
+"Bonnie And Clyde",1968,7.8,"Action",111,"USA","1964 - 1980",1,11
+"Bonnie And Clyde",1968,7.8,"Biography",111,"USA","1964 - 1980",1,147
+"Bonnie And Clyde",1968,7.8,"Crime",111,"USA","1964 - 1980",3,126
+"Born On The Fourth Of July",1990,7.2,"Biography",145,"USA","1981 - 1997",3,147
+"Born On The Fourth Of July",1990,7.2,"Drama",145,"USA","1981 - 1997",5,1755
+"Born On The Fourth Of July",1990,7.2,"War",145,"USA","1981 - 1997",1,83
+"Born Yesterday",1951,7.6,"Comedy",103,"USA","1947 - 1963",2,161
+"Born Yesterday",1951,7.6,"Drama",103,"USA","1947 - 1963",5,1755
+"Born Yesterday",1951,7.6,"Romance",103,"USA","1947 - 1963",2,336
+"Boys Don't Cry",2000,7.5,"Biography",118,"USA","1998 - 2014",2,147
+"Boys Don't Cry",2000,7.5,"Crime",118,"USA","1998 - 2014",1,126
+"Boys Don't Cry",2000,7.5,"Drama",118,"USA","1998 - 2014",5,1755
+"Boys Town",1939,7.3,"Biography",96,"USA","1930 - 1946",1,147
+"Boys Town",1939,7.3,"Drama",96,"USA","1930 - 1946",5,1755
+"Braveheart",1996,8.3,"Biography",178,"USA","1981 - 1997",1,147
+"Braveheart",1996,8.3,"Drama",178,"USA","1981 - 1997",3,1755
+"Braveheart",1996,8.3,"History",178,"USA","1981 - 1997",1,80
+"Brokeback Mountain",2006,7.7,"Drama",134,"USA, Canada","1998 - 2014",5,1755
+"Brokeback Mountain",2006,7.7,"Romance",134,"USA, Canada","1998 - 2014",2,336
+"Bullets Over Broadway",1995,7.4,"Comedy",98,"USA","1981 - 1997",2,161
+"Bullets Over Broadway",1995,7.4,"Crime",98,"USA","1981 - 1997",1,126
+"Butterfield 8",1961,6.4,"Drama",109,"USA","1947 - 1963",5,1755
+"Butterflies Are Free",1973,7.2,"Comedy",109,"USA","1964 - 1980",1,161
+"Butterflies Are Free",1973,7.2,"Drama",109,"USA","1964 - 1980",5,1755
+"Butterflies Are Free",1973,7.2,"Music",109,"USA","1964 - 1980",1,26
+"Cabaret",1973,7.8,"Drama",124,"USA","1964 - 1980",5,1755
+"Cabaret",1973,7.8,"Musical",124,"USA","1964 - 1980",3,31
+"Cactus Flower",1970,7.2,"Comedy",103,"USA","1964 - 1980",1,161
+"Cactus Flower",1970,7.2,"Romance",103,"USA","1964 - 1980",2,336
+"California Suite",1979,6.2,"Comedy",103,"USA","1964 - 1980",1,161
+"California Suite",1979,6.2,"Drama",103,"USA","1964 - 1980",5,1755
+"California Suite",1979,6.2,"Romance",103,"USA","1964 - 1980",3,336
+"Capote",2006,7.3,"Biography",114,"USA, Canada","1998 - 2014",2,147
+"Capote",2006,7.3,"Crime",114,"USA, Canada","1998 - 2014",1,126
+"Capote",2006,7.3,"Drama",114,"USA, Canada","1998 - 2014",5,1755
+"Captains Courageous",1938,8,"Adventure",117,"USA","1930 - 1946",1,38
+"Captains Courageous",1938,8,"Drama",117,"USA","1930 - 1946",4,1755
+"Captains Courageous",1938,8,"Family",117,"USA","1930 - 1946",1,20
+"Casablanca",1944,8.5,"Drama",102,"USA","1930 - 1946",4,1755
+"Casablanca",1944,8.5,"Romance",102,"USA","1930 - 1946",2,336
+"Casablanca",1944,8.5,"War",102,"USA","1930 - 1946",2,83
+"Cat Ballou",1966,6.8,"Comedy",97,"USA","1964 - 1980",2,161
+"Cat Ballou",1966,6.8,"Romance",97,"USA","1964 - 1980",4,336
+"Cat Ballou",1966,6.8,"Western",97,"USA","1964 - 1980",1,25
+"Cavalcade",1934,5.9,"Drama",112,"USA","1930 - 1946",3,1755
+"Cavalcade",1934,5.9,"Romance",112,"USA","1930 - 1946",2,336
+"Cavalcade",1934,5.9,"War",112,"USA","1930 - 1946",1,83
+"Charly",1969,7,"Drama",103,"USA","1964 - 1980",5,1755
+"Charly",1969,7,"Romance",103,"USA","1964 - 1980",1,336
+"Charly",1969,7,"Sci-Fi",103,"USA","1964 - 1980",1,4
+"Chicago",2003,7.1,"Comedy",113,"USA, Germany, Canada","1998 - 2014",1,161
+"Chicago",2003,7.1,"Crime",113,"USA, Germany, Canada","1998 - 2014",2,126
+"Chicago",2003,7.1,"Musical",113,"USA, Germany, Canada","1998 - 2014",1,31
+"Children Of A Lesser God",1987,7.2,"Drama",119,"USA","1981 - 1997",5,1755
+"Children Of A Lesser God",1987,7.2,"Romance",119,"USA","1981 - 1997",1,336
+"City Slickers",1992,6.7,"Comedy",113,"USA","1981 - 1997",2,161
+"Coal Miner's Daughter",1981,7.5,"Biography",124,"USA","1981 - 1997",2,147
+"Coal Miner's Daughter",1981,7.5,"Drama",124,"USA","1981 - 1997",5,1755
+"Coal Miner's Daughter",1981,7.5,"Music",124,"USA","1981 - 1997",1,26
+"Cocoon",1986,6.7,"Comedy",117,"USA","1981 - 1997",2,161
+"Cocoon",1986,6.7,"Drama",117,"USA","1981 - 1997",5,1755
+"Cocoon",1986,6.7,"Sci-Fi",117,"USA","1981 - 1997",1,4
+"Cold Mountain",2004,7.2,"Adventure",154,"UK, Italy, Romania, USA","1998 - 2014",2,38
+"Cold Mountain",2004,7.2,"Drama",154,"UK, Italy, Romania, USA","1998 - 2014",5,1755
+"Cold Mountain",2004,7.2,"History",154,"UK, Italy, Romania, USA","1998 - 2014",1,80
+"Come And Get It",1937,7,"Drama",99,"USA","1930 - 1946",5,1755
+"Come And Get It",1937,7,"Romance",99,"USA","1930 - 1946",3,336
+"Come Back, Little Sheba",1953,7.5,"Drama",99,"USA","1947 - 1963",5,1755
+"Come Back, Little Sheba",1953,7.5,"Romance",99,"USA","1947 - 1963",3,336
+"Coming Home",1979,7.3,"Drama",127,"USA","1964 - 1980",5,1755
+"Coming Home",1979,7.3,"Romance",127,"USA","1964 - 1980",3,336
+"Coming Home",1979,7.3,"War",127,"USA","1964 - 1980",4,83
+"Cool Hand Luke",1968,8.1,"Crime",127,"USA","1964 - 1980",3,126
+"Cool Hand Luke",1968,8.1,"Drama",127,"USA","1964 - 1980",4,1755
+"Crazy Heart",2010,7.2,"Drama",112,"USA","1998 - 2014",5,1755
+"Crazy Heart",2010,7.2,"Music",112,"USA","1998 - 2014",1,26
+"Crazy Heart",2010,7.2,"Romance",112,"USA","1998 - 2014",1,336
+"Cyrano De Bergerac",1951,7.5,"Adventure",113,"USA","1947 - 1963",1,38
+"Cyrano De Bergerac",1951,7.5,"Drama",113,"USA","1947 - 1963",5,1755
+"Cyrano De Bergerac",1951,7.5,"Romance",113,"USA","1947 - 1963",2,336
+"Dallas Buyers Club",2014,8,"Biography",117,"USA","1998 - 2014",3,147
+"Dallas Buyers Club",2014,8,"Drama",117,"USA","1998 - 2014",5,1755
+"Dances With Wolves",1991,8,"Adventure",181,"USA, UK","1981 - 1997",1,38
+"Dances With Wolves",1991,8,"Drama",181,"USA, UK","1981 - 1997",5,1755
+"Dances With Wolves",1991,8,"Western",181,"USA, UK","1981 - 1997",1,25
+"Dangerous",1936,7,"Drama",79,"USA","1930 - 1946",3,1755
+"Darling",1966,7.1,"Drama",128,"UK","1964 - 1980",4,1755
+"Darling",1966,7.1,"Romance",128,"UK","1964 - 1980",4,336
+"Dead Man Walking",1996,7.5,"Crime",122,"UK, USA","1981 - 1997",2,126
+"Dead Man Walking",1996,7.5,"Drama",122,"UK, USA","1981 - 1997",3,1755
+"Django Unchained",2013,8.4,"Drama",165,"USA","1998 - 2014",5,1755
+"Django Unchained",2013,8.4,"Western",165,"USA","1998 - 2014",1,25
+"Dreamgirls",2007,6.5,"Drama",130,"USA","1998 - 2014",5,1755
+"Dreamgirls",2007,6.5,"Music",130,"USA","1998 - 2014",1,26
+"Dreamgirls",2007,6.5,"Musical",130,"USA","1998 - 2014",1,31
+"Driving Miss Daisy",1990,7.4,"Drama",99,"USA","1981 - 1997",5,1755
+"East Of Eden",1956,7.9,"Drama",118,"USA","1947 - 1963",5,1755
+"Ed Wood",1995,7.8,"Biography",127,"USA","1981 - 1997",1,147
+"Ed Wood",1995,7.8,"Comedy",127,"USA","1981 - 1997",2,161
+"Ed Wood",1995,7.8,"Drama",127,"USA","1981 - 1997",4,1755
+"Elmer Gantry",1961,7.8,"Drama",146,"USA","1947 - 1963",5,1755
+"Erin Brockovich",2001,7.3,"Biography",131,"USA","1998 - 2014",2,147
+"Erin Brockovich",2001,7.3,"Drama",131,"USA","1998 - 2014",5,1755
+"Fargo",1997,8.1,"Crime",98,"USA, UK","1981 - 1997",1,126
+"Fargo",1997,8.1,"Drama",98,"USA, UK","1981 - 1997",5,1755
+"Fargo",1997,8.1,"Thriller",98,"USA, UK","1981 - 1997",1,41
+"For Whom The Bell Tolls",1944,6.9,"Adventure",170,"USA","1930 - 1946",1,38
+"For Whom The Bell Tolls",1944,6.9,"Drama",170,"USA","1930 - 1946",4,1755
+"For Whom The Bell Tolls",1944,6.9,"History",170,"USA","1930 - 1946",1,80
+"Forrest Gump",1995,8.8,"Drama",142,"USA","1981 - 1997",4,1755
+"Forrest Gump",1995,8.8,"Romance",142,"USA","1981 - 1997",3,336
+"From Here To Eternity",1954,7.6,"Drama",118,"USA","1947 - 1963",4,1755
+"From Here To Eternity",1954,7.6,"Romance",118,"USA","1947 - 1963",4,336
+"From Here To Eternity",1954,7.6,"War",118,"USA","1947 - 1963",4,83
+"Funny Girl",1969,7.4,"Biography",151,"USA","1964 - 1980",1,147
+"Funny Girl",1969,7.4,"Comedy",151,"USA","1964 - 1980",1,161
+"Funny Girl",1969,7.4,"Drama",151,"USA","1964 - 1980",5,1755
+"Gandhi",1983,8,"Biography",191,"UK, India","1981 - 1997",2,147
+"Gandhi",1983,8,"Drama",191,"UK, India","1981 - 1997",5,1755
+"Gandhi",1983,8,"History",191,"UK, India","1981 - 1997",2,80
+"Gaslight",1945,7.8,"Crime",114,"USA","1930 - 1946",1,126
+"Gaslight",1945,7.8,"Drama",114,"USA","1930 - 1946",5,1755
+"Gaslight",1945,7.8,"Film-Noir",114,"USA","1930 - 1946",1,16
+"Gentleman's Agreement",1948,7.2,"Drama",118,"USA","1947 - 1963",5,1755
+"Gentleman's Agreement",1948,7.2,"Romance",118,"USA","1947 - 1963",3,336
+"Ghost",1991,7,"Drama",127,"USA","1981 - 1997",5,1755
+"Ghost",1991,7,"Fantasy",127,"USA","1981 - 1997",1,7
+"Ghost",1991,7,"Romance",127,"USA","1981 - 1997",1,336
+"Giant",1957,7.6,"Drama",201,"USA","1947 - 1963",5,1755
+"Giant",1957,7.6,"Western",201,"USA","1947 - 1963",1,25
+"Gigi",1959,6.7,"Comedy",115,"USA","1947 - 1963",1,161
+"Gigi",1959,6.7,"Musical",115,"USA","1947 - 1963",1,31
+"Gigi",1959,6.7,"Romance",115,"USA","1947 - 1963",4,336
+"Girl, Interrupted",2000,7.3,"Biography",127,"USA, Germany","1998 - 2014",2,147
+"Girl, Interrupted",2000,7.3,"Drama",127,"USA, Germany","1998 - 2014",5,1755
+"Gladiator",2001,8.5,"Action",155,"USA, UK, Malta, Morocco","1998 - 2014",1,11
+"Gladiator",2001,8.5,"Adventure",155,"USA, UK, Malta, Morocco","1998 - 2014",1,38
+"Gladiator",2001,8.5,"Drama",155,"USA, UK, Malta, Morocco","1998 - 2014",5,1755
+"Glory",1990,7.8,"Biography",122,"USA","1981 - 1997",3,147
+"Glory",1990,7.8,"Drama",122,"USA","1981 - 1997",5,1755
+"Glory",1990,7.8,"History",122,"USA","1981 - 1997",1,80
+"Going My Way",1945,7.1,"Comedy",126,"USA","1930 - 1946",3,161
+"Going My Way",1945,7.1,"Drama",126,"USA","1930 - 1946",5,1755
+"Going My Way",1945,7.1,"Music",126,"USA","1930 - 1946",3,26
+"Gone With The Wind",1940,8.1,"Drama",238,"USA","1930 - 1946",5,1755
+"Gone With The Wind",1940,8.1,"History",238,"USA","1930 - 1946",3,80
+"Gone With The Wind",1940,8.1,"Romance",238,"USA","1930 - 1946",4,336
+"Good Will Hunting",1998,8.3,"Drama",126,"USA","1998 - 2014",5,1755
+"Good Will Hunting",1998,8.3,"Romance",126,"USA","1998 - 2014",4,336
+"Guess Who's Coming To Dinner",1968,7.8,"Comedy",108,"USA","1964 - 1980",2,161
+"Guess Who's Coming To Dinner",1968,7.8,"Drama",108,"USA","1964 - 1980",4,1755
+"Hamlet",1949,7.7,"Drama",154,"UK","1947 - 1963",5,1755
+"Hannah And Her Sisters",1987,7.9,"Comedy",107,"USA","1981 - 1997",2,161
+"Hannah And Her Sisters",1987,7.9,"Drama",107,"USA","1981 - 1997",5,1755
+"Harry And Tonto",1975,7.4,"Adventure",115,"USA","1964 - 1980",1,38
+"Harry And Tonto",1975,7.4,"Comedy",115,"USA","1964 - 1980",1,161
+"Harry And Tonto",1975,7.4,"Drama",115,"USA","1964 - 1980",5,1755
+"Harvey",1951,7.9,"Comedy",104,"USA","1947 - 1963",2,161
+"Harvey",1951,7.9,"Drama",104,"USA","1947 - 1963",5,1755
+"Harvey",1951,7.9,"Fantasy",104,"USA","1947 - 1963",1,7
+"High Noon",1953,7.9,"Drama",85,"USA","1947 - 1963",5,1755
+"High Noon",1953,7.9,"Thriller",85,"USA","1947 - 1963",1,41
+"High Noon",1953,7.9,"Western",85,"USA","1947 - 1963",1,25
+"How Green Was My Valley",1942,7.7,"Drama",118,"USA","1930 - 1946",5,1755
+"How Green Was My Valley",1942,7.7,"Family",118,"USA","1930 - 1946",2,20
+"Howards End",1993,7.4,"Drama",142,"UK, Japan, USA","1981 - 1997",4,1755
+"Howards End",1993,7.4,"Romance",142,"UK, Japan, USA","1981 - 1997",1,336
+"Hud",1964,7.9,"Drama",112,"USA","1964 - 1980",4,1755
+"Hud",1964,7.9,"Western",112,"USA","1964 - 1980",2,25
+"I Want To Live!",1959,7.4,"Biography",120,"USA","1947 - 1963",1,147
+"I Want To Live!",1959,7.4,"Crime",120,"USA","1947 - 1963",1,126
+"I Want To Live!",1959,7.4,"Drama",120,"USA","1947 - 1963",3,1755
+"In Old Arizona",1930,5.6,"Romance",95,"USA","1930 - 1946",3,336
+"In Old Arizona",1930,5.6,"Western",95,"USA","1930 - 1946",1,25
+"In Old Chicago",1938,6.8,"Action",95,"USA","1930 - 1946",1,11
+"In Old Chicago",1938,6.8,"Drama",95,"USA","1930 - 1946",4,1755
+"In Old Chicago",1938,6.8,"Musical",95,"USA","1930 - 1946",1,31
+"In The Heat Of The Night",1968,8,"Crime",110,"USA","1964 - 1980",3,126
+"In The Heat Of The Night",1968,8,"Drama",110,"USA","1964 - 1980",4,1755
+"In The Heat Of The Night",1968,8,"Mystery",110,"USA","1964 - 1980",1,16
+"Inglourious Basterds",2010,8.3,"Adventure",153,"Germany, USA","1998 - 2014",1,38
+"Inglourious Basterds",2010,8.3,"Drama",153,"Germany, USA","1998 - 2014",5,1755
+"Inglourious Basterds",2010,8.3,"War",153,"Germany, USA","1998 - 2014",2,83
+"Iris",2002,7,"Biography",91,"UK, USA","1998 - 2014",3,147
+"Iris",2002,7,"Drama",91,"UK, USA","1998 - 2014",5,1755
+"Iris",2002,7,"Romance",91,"UK, USA","1998 - 2014",2,336
+"It Happened One Night",1935,8.1,"Comedy",105,"USA","1930 - 1946",3,161
+"It Happened One Night",1935,8.1,"Romance",105,"USA","1930 - 1946",3,336
+"Jerry Maguire",1997,7.3,"Comedy",139,"USA","1981 - 1997",1,161
+"Jerry Maguire",1997,7.3,"Drama",139,"USA","1981 - 1997",5,1755
+"Jerry Maguire",1997,7.3,"Romance",139,"USA","1981 - 1997",3,336
+"Jezebel",1939,7.5,"Drama",104,"USA","1930 - 1946",5,1755
+"Jezebel",1939,7.5,"Romance",104,"USA","1930 - 1946",4,336
+"Johnny Belinda",1949,7.7,"Drama",102,"USA","1947 - 1963",5,1755
+"Johnny Eager",1943,7.1,"Crime",107,"USA","1930 - 1946",1,126
+"Johnny Eager",1943,7.1,"Film-Noir",107,"USA","1930 - 1946",1,16
+"Johnny Eager",1943,7.1,"Thriller",107,"USA","1930 - 1946",1,41
+"Julia",1978,7.2,"Drama",117,"USA","1964 - 1980",3,1755
+"Kentucky",1939,6.4,"Drama",96,"USA","1930 - 1946",5,1755
+"Kentucky",1939,6.4,"Romance",96,"USA","1930 - 1946",4,336
+"Kentucky",1939,6.4,"Sport",96,"USA","1930 - 1946",1,21
+"Key Largo",1949,7.8,"Action",100,"USA","1947 - 1963",1,11
+"Key Largo",1949,7.8,"Crime",100,"USA","1947 - 1963",1,126
+"Key Largo",1949,7.8,"Drama",100,"USA","1947 - 1963",5,1755
+"Kiss Of The Spider Woman",1986,7.4,"Drama",120,"Brazil","1981 - 1997",5,1755
+"Kitty Foyle",1941,7,"Drama",108,"USA","1930 - 1946",4,1755
+"Kitty Foyle",1941,7,"Romance",108,"USA","1930 - 1946",3,336
+"Klute",1972,7.1,"Crime",114,"USA","1964 - 1980",3,126
+"Klute",1972,7.1,"Mystery",114,"USA","1964 - 1980",1,16
+"Klute",1972,7.1,"Thriller",114,"USA","1964 - 1980",1,41
+"Kramer Vs. Kramer",1980,7.8,"Drama",105,"USA","1964 - 1980",5,1755
+"L.a. Confidential",1998,8.2,"Crime",138,"USA","1998 - 2014",1,126
+"L.a. Confidential",1998,8.2,"Drama",138,"USA","1998 - 2014",5,1755
+"L.a. Confidential",1998,8.2,"Mystery",138,"USA","1998 - 2014",1,16
+"Lawrence Of Arabia",1963,8.3,"Adventure",228,"UK","1947 - 1963",1,38
+"Lawrence Of Arabia",1963,8.3,"Biography",228,"UK","1947 - 1963",3,147
+"Lawrence Of Arabia",1963,8.3,"Drama",228,"UK","1947 - 1963",5,1755
+"Leaving Las Vegas",1996,7.5,"Drama",111,"France, UK, USA","1981 - 1997",3,1755
+"Leaving Las Vegas",1996,7.5,"Romance",111,"France, UK, USA","1981 - 1997",2,336
+"Life Of Pi",2013,7.9,"Adventure",127,"USA, Taiwan, UK, Canada","1998 - 2014",1,38
+"Life Of Pi",2013,7.9,"Drama",127,"USA, Taiwan, UK, Canada","1998 - 2014",5,1755
+"Life Of Pi",2013,7.9,"Fantasy",127,"USA, Taiwan, UK, Canada","1998 - 2014",1,7
+"Lilies Of The Field",1964,7.6,"Drama",94,"USA","1964 - 1980",4,1755
+"Lincoln",2013,7.3,"Biography",150,"USA, India","1998 - 2014",1,147
+"Lincoln",2013,7.3,"Drama",150,"USA, India","1998 - 2014",5,1755
+"Lincoln",2013,7.3,"History",150,"USA, India","1998 - 2014",2,80
+"Little Miss Sunshine",2007,7.8,"Comedy",101,"USA","1998 - 2014",1,161
+"Little Miss Sunshine",2007,7.8,"Drama",101,"USA","1998 - 2014",5,1755
+"Lust For Life",1957,7.4,"Biography",122,"USA","1947 - 1963",3,147
+"Lust For Life",1957,7.4,"Drama",122,"USA","1947 - 1963",5,1755
+"Marty",1956,7.7,"Drama",90,"USA","1947 - 1963",5,1755
+"Marty",1956,7.7,"Romance",90,"USA","1947 - 1963",3,336
+"Mary Poppins",1965,7.8,"Comedy",139,"USA","1964 - 1980",3,161
+"Mary Poppins",1965,7.8,"Family",139,"USA","1964 - 1980",3,20
+"Mary Poppins",1965,7.8,"Fantasy",139,"USA","1964 - 1980",1,7
+"Melvin And Howard",1981,6.8,"Comedy",95,"USA","1981 - 1997",1,161
+"Melvin And Howard",1981,6.8,"Drama",95,"USA","1981 - 1997",5,1755
+"Michael Clayton",2008,7.2,"Crime",119,"USA","1998 - 2014",3,126
+"Michael Clayton",2008,7.2,"Drama",119,"USA","1998 - 2014",4,1755
+"Michael Clayton",2008,7.2,"Mystery",119,"USA","1998 - 2014",1,16
+"Midnight Cowboy",1970,7.8,"Drama",113,"USA","1964 - 1980",4,1755
+"Midnight Cowboy",1970,7.8,"Western",113,"USA","1964 - 1980",2,25
+"Mighty Aphrodite",1996,7,"Comedy",95,"USA","1981 - 1997",1,161
+"Mighty Aphrodite",1996,7,"Fantasy",95,"USA","1981 - 1997",1,7
+"Mighty Aphrodite",1996,7,"Romance",95,"USA","1981 - 1997",2,336
+"Mildred Pierce",1946,8,"Crime",111,"USA","1930 - 1946",1,126
+"Mildred Pierce",1946,8,"Drama",111,"USA","1930 - 1946",5,1755
+"Mildred Pierce",1946,8,"Film-Noir",111,"USA","1930 - 1946",3,16
+"Milk",2009,7.5,"Biography",128,"USA","1998 - 2014",1,147
+"Milk",2009,7.5,"Drama",128,"USA","1998 - 2014",5,1755
+"Million Dollar Baby",2005,8.1,"Drama",132,"USA","1998 - 2014",5,1755
+"Million Dollar Baby",2005,8.1,"Sport",132,"USA","1998 - 2014",3,21
+"Min And Bill",1931,6.8,"Comedy",69,"USA","1930 - 1946",1,161
+"Min And Bill",1931,6.8,"Drama",69,"USA","1930 - 1946",3,1755
+"Miracle On 34th Street",1948,7.9,"Comedy",96,"USA","1947 - 1963",2,161
+"Miracle On 34th Street",1948,7.9,"Drama",96,"USA","1947 - 1963",5,1755
+"Miracle On 34th Street",1948,7.9,"Family",96,"USA","1947 - 1963",1,20
+"Misery",1991,7.8,"Drama",107,"USA","1981 - 1997",5,1755
+"Misery",1991,7.8,"Thriller",107,"USA","1981 - 1997",1,41
+"Mister Roberts",1956,7.7,"Comedy",123,"USA","1947 - 1963",2,161
+"Mister Roberts",1956,7.7,"Drama",123,"USA","1947 - 1963",5,1755
+"Mister Roberts",1956,7.7,"War",123,"USA","1947 - 1963",1,83
+"Monster",2004,7.3,"Biography",109,"Germany, USA","1998 - 2014",1,147
+"Monster",2004,7.3,"Crime",109,"Germany, USA","1998 - 2014",3,126
+"Monster",2004,7.3,"Drama",109,"Germany, USA","1998 - 2014",5,1755
+"Monster's Ball",2002,7,"Drama",111,"USA","1998 - 2014",5,1755
+"Monster's Ball",2002,7,"Romance",111,"USA","1998 - 2014",2,336
+"Moonstruck",1988,7.1,"Comedy",102,"USA","1981 - 1997",2,161
+"Moonstruck",1988,7.1,"Drama",102,"USA","1981 - 1997",5,1755
+"Moonstruck",1988,7.1,"Romance",102,"USA","1981 - 1997",2,336
+"Morning Glory",1934,6.5,"Drama",74,"USA","1930 - 1946",3,1755
+"Morning Glory",1934,6.5,"Romance",74,"USA","1930 - 1946",2,336
+"Mr. Deeds Goes To Town",1937,7.9,"Comedy",115,"USA","1930 - 1946",1,161
+"Mr. Deeds Goes To Town",1937,7.9,"Drama",115,"USA","1930 - 1946",5,1755
+"Mr. Deeds Goes To Town",1937,7.9,"Romance",115,"USA","1930 - 1946",3,336
+"Mrs. Miniver",1942,7.6,"Drama",134,"USA","1930 - 1946",5,1755
+"Mrs. Miniver",1942,7.6,"Romance",134,"USA","1930 - 1946",1,336
+"Mrs. Miniver",1942,7.6,"War",134,"USA","1930 - 1946",1,83
+"Mrs. Miniver",1943,7.6,"Drama",134,"USA","1930 - 1946",4,1755
+"Mrs. Miniver",1943,7.6,"Romance",134,"USA","1930 - 1946",3,336
+"Mrs. Miniver",1943,7.6,"War",134,"USA","1930 - 1946",3,83
+"Murder On The Orient Express",1975,7.3,"Crime",128,"UK, USA","1964 - 1980",3,126
+"Murder On The Orient Express",1975,7.3,"Drama",128,"UK, USA","1964 - 1980",5,1755
+"Murder On The Orient Express",1975,7.3,"Mystery",128,"UK, USA","1964 - 1980",1,16
+"My Cousin Vinny",1993,7.6,"Comedy",120,"USA","1981 - 1997",1,161
+"My Cousin Vinny",1993,7.6,"Crime",120,"USA","1981 - 1997",1,126
+"My Fair Lady",1965,7.8,"Drama",170,"USA","1964 - 1980",3,1755
+"My Fair Lady",1965,7.8,"Family",170,"USA","1964 - 1980",3,20
+"My Fair Lady",1965,7.8,"Musical",170,"USA","1964 - 1980",2,31
+"Mystic River",2004,7.9,"Crime",138,"USA, Australia","1998 - 2014",3,126
+"Mystic River",2004,7.9,"Drama",138,"USA, Australia","1998 - 2014",5,1755
+"Mystic River",2004,7.9,"Mystery",138,"USA, Australia","1998 - 2014",2,16
+"Mystic River",2003,7.9,"Crime",138,"USA, Australia","1998 - 2014",2,126
+"Mystic River",2003,7.9,"Drama",138,"USA, Australia","1998 - 2014",4,1755
+"Mystic River",2003,7.9,"Mystery",138,"USA, Australia","1998 - 2014",1,16
+"National Velvet",1946,7.3,"Drama",123,"USA","1930 - 1946",5,1755
+"National Velvet",1946,7.3,"Family",123,"USA","1930 - 1946",1,20
+"National Velvet",1946,7.3,"Sport",123,"USA","1930 - 1946",1,21
+"Network",1977,8.1,"Drama",121,"USA","1964 - 1980",5,1755
+"No Country For Old Men",2008,8.1,"Crime",122,"USA","1998 - 2014",3,126
+"No Country For Old Men",2008,8.1,"Drama",122,"USA","1998 - 2014",4,1755
+"No Country For Old Men",2008,8.1,"Thriller",122,"USA","1998 - 2014",2,41
+"None But The Lonely Heart",1945,6.5,"Drama",113,"USA","1930 - 1946",5,1755
+"None But The Lonely Heart",1945,6.5,"Romance",113,"USA","1930 - 1946",1,336
+"Norma Rae",1980,7.3,"Drama",114,"USA","1964 - 1980",5,1755
+"Oliver!",1969,7.4,"Drama",153,"UK","1964 - 1980",5,1755
+"Oliver!",1969,7.4,"Family",153,"UK","1964 - 1980",1,20
+"Oliver!",1969,7.4,"Musical",153,"UK","1964 - 1980",1,31
+"On Golden Pond",1982,7.6,"Drama",109,"UK, USA","1981 - 1997",4,1755
+"On The Waterfront",1955,8.1,"Crime",108,"USA","1947 - 1963",4,126
+"On The Waterfront",1955,8.1,"Drama",108,"USA","1947 - 1963",5,1755
+"On The Waterfront",1955,8.1,"Thriller",108,"USA","1947 - 1963",3,41
+"One Flew Over The Cuckoo's Nest",1976,8.7,"Drama",133,"USA","1964 - 1980",4,1755
+"Ordinary People",1981,7.7,"Drama",124,"USA","1981 - 1997",5,1755
+"Out Of Africa",1986,7.2,"Biography",161,"USA, UK","1981 - 1997",1,147
+"Out Of Africa",1986,7.2,"Drama",161,"USA, UK","1981 - 1997",5,1755
+"Out Of Africa",1986,7.2,"Romance",161,"USA, UK","1981 - 1997",1,336
+"Paper Moon",1974,8.1,"Comedy",102,"USA","1964 - 1980",4,161
+"Paper Moon",1974,8.1,"Drama",102,"USA","1964 - 1980",4,1755
+"Patton",1971,7.9,"Biography",172,"USA","1964 - 1980",2,147
+"Patton",1971,7.9,"Drama",172,"USA","1964 - 1980",5,1755
+"Patton",1971,7.9,"War",172,"USA","1964 - 1980",2,83
+"Philadelphia",1994,7.7,"Drama",125,"USA","1981 - 1997",5,1755
+"Places In The Heart",1985,7.3,"Drama",111,"USA","1981 - 1997",5,1755
+"Platoon",1987,8.1,"Drama",120,"USA, UK","1981 - 1997",5,1755
+"Platoon",1987,8.1,"War",120,"USA, UK","1981 - 1997",1,83
+"Pollock",2001,7,"Biography",122,"USA","1998 - 2014",2,147
+"Pollock",2001,7,"Drama",122,"USA","1998 - 2014",5,1755
+"Precious",2010,7.3,"Drama",110,"USA","1998 - 2014",5,1755
+"Prizzi's Honor",1986,6.7,"Comedy",130,"USA","1981 - 1997",2,161
+"Prizzi's Honor",1986,6.7,"Crime",130,"USA","1981 - 1997",1,126
+"Prizzi's Honor",1986,6.7,"Drama",130,"USA","1981 - 1997",5,1755
+"Raging Bull",1981,8.2,"Biography",129,"USA","1981 - 1997",2,147
+"Raging Bull",1981,8.2,"Drama",129,"USA","1981 - 1997",5,1755
+"Raging Bull",1981,8.2,"Sport",129,"USA","1981 - 1997",1,21
+"Rain Man",1989,8,"Drama",133,"USA","1981 - 1997",4,1755
+"Ray",2005,7.7,"Biography",152,"USA","1998 - 2014",2,147
+"Ray",2005,7.7,"Drama",152,"USA","1998 - 2014",5,1755
+"Ray",2005,7.7,"Music",152,"USA","1998 - 2014",1,26
+"Reds",1982,7.3,"Biography",195,"USA","1981 - 1997",2,147
+"Reds",1982,7.3,"Drama",195,"USA","1981 - 1997",4,1755
+"Reds",1982,7.3,"History",195,"USA","1981 - 1997",2,80
+"Reversal Of Fortune",1991,7.2,"Biography",111,"USA, Japan, UK","1981 - 1997",2,147
+"Reversal Of Fortune",1991,7.2,"Drama",111,"USA, Japan, UK","1981 - 1997",5,1755
+"Reversal Of Fortune",1991,7.2,"Mystery",111,"USA, Japan, UK","1981 - 1997",1,16
+"Rocky",1977,8.1,"Drama",120,"USA","1964 - 1980",5,1755
+"Rocky",1977,8.1,"Sport",120,"USA","1964 - 1980",1,21
+"Roman Holiday",1954,8,"Comedy",118,"USA","1947 - 1963",2,161
+"Roman Holiday",1954,8,"Romance",118,"USA","1947 - 1963",4,336
+"Room At The Top",1960,7.5,"Drama",117,"UK","1947 - 1963",5,1755
+"Room At The Top",1960,7.5,"Romance",117,"UK","1947 - 1963",1,336
+"Rosemary's Baby",1969,8,"Drama",137,"USA","1964 - 1980",5,1755
+"Rosemary's Baby",1969,8,"Horror",137,"USA","1964 - 1980",1,2
+"Ryan's Daughter",1971,7.4,"Drama",206,"UK","1964 - 1980",5,1755
+"Ryan's Daughter",1971,7.4,"Romance",206,"UK","1964 - 1980",2,336
+"Save The Tiger",1974,6.9,"Drama",100,"USA","1964 - 1980",4,1755
+"Saving Private Ryan",1999,8.6,"Drama",169,"USA","1998 - 2014",5,1755
+"Saving Private Ryan",1999,8.6,"War",169,"USA","1998 - 2014",1,83
+"Sayonara",1958,7.1,"Drama",147,"USA","1947 - 1963",5,1755
+"Sayonara",1958,7.1,"Romance",147,"USA","1947 - 1963",2,336
+"Scent Of A Woman",1993,8,"Drama",156,"USA","1981 - 1997",4,1755
+"Schindler's List",1994,8.9,"Biography",195,"USA","1981 - 1997",1,147
+"Schindler's List",1994,8.9,"Drama",195,"USA","1981 - 1997",5,1755
+"Schindler's List",1994,8.9,"History",195,"USA","1981 - 1997",1,80
+"Separate Tables",1959,7.4,"Drama",100,"USA","1947 - 1963",3,1755
+"Separate Tables",1959,7.4,"Romance",100,"USA","1947 - 1963",4,336
+"Sergeant York",1942,7.7,"Biography",134,"USA","1930 - 1946",1,147
+"Sergeant York",1942,7.7,"Drama",134,"USA","1930 - 1946",5,1755
+"Sergeant York",1942,7.7,"History",134,"USA","1930 - 1946",1,80
+"Shakespeare In Love",1999,7.1,"Comedy",123,"USA, UK","1998 - 2014",3,161
+"Shakespeare In Love",1999,7.1,"Drama",123,"USA, UK","1998 - 2014",5,1755
+"Shakespeare In Love",1999,7.1,"History",123,"USA, UK","1998 - 2014",2,80
+"Shampoo",1976,6.3,"Comedy",109,"USA","1964 - 1980",2,161
+"Shampoo",1976,6.3,"Drama",109,"USA","1964 - 1980",4,1755
+"Shine",1997,7.7,"Biography",105,"Australia","1981 - 1997",1,147
+"Shine",1997,7.7,"Drama",105,"Australia","1981 - 1997",5,1755
+"Shine",1997,7.7,"Music",105,"Australia","1981 - 1997",1,26
+"Silver Linings Playbook",2013,7.7,"Comedy",122,"USA","1998 - 2014",1,161
+"Silver Linings Playbook",2013,7.7,"Drama",122,"USA","1998 - 2014",5,1755
+"Silver Linings Playbook",2013,7.7,"Romance",122,"USA","1998 - 2014",1,336
+"Skippy",1932,6.3,"Comedy",85,"USA","1930 - 1946",1,161
+"Skippy",1932,6.3,"Drama",85,"USA","1930 - 1946",3,1755
+"Skippy",1932,6.3,"Family",85,"USA","1930 - 1946",1,20
+"Slumdog Millionaire",2009,8,"Drama",120,"UK, India","1998 - 2014",5,1755
+"Slumdog Millionaire",2009,8,"Romance",120,"UK, India","1998 - 2014",3,336
+"Sophie's Choice",1983,7.6,"Drama",150,"UK, USA","1981 - 1997",5,1755
+"Sophie's Choice",1983,7.6,"Romance",150,"UK, USA","1981 - 1997",3,336
+"Spartacus",1961,7.9,"Adventure",197,"USA","1947 - 1963",1,38
+"Spartacus",1961,7.9,"Biography",197,"USA","1947 - 1963",1,147
+"Spartacus",1961,7.9,"Drama",197,"USA","1947 - 1963",5,1755
+"Stagecoach",1940,7.9,"Adventure",96,"USA","1930 - 1946",1,38
+"Stagecoach",1940,7.9,"Drama",96,"USA","1930 - 1946",5,1755
+"Stagecoach",1940,7.9,"Western",96,"USA","1930 - 1946",1,25
+"Stalag 17",1954,8,"Comedy",120,"USA","1947 - 1963",2,161
+"Stalag 17",1954,8,"Drama",120,"USA","1947 - 1963",4,1755
+"Stalag 17",1954,8,"War",120,"USA","1947 - 1963",4,83
+"Sweet Bird Of Youth",1963,7.3,"Drama",120,"USA","1947 - 1963",5,1755
+"Syriana",2006,6.9,"Drama",128,"USA, United Arab Emirates","1998 - 2014",5,1755
+"Syriana",2006,6.9,"Thriller",128,"USA, United Arab Emirates","1998 - 2014",1,41
+"Tender Mercies",1984,7.4,"Drama",92,"USA","1981 - 1997",5,1755
+"Tender Mercies",1984,7.4,"Music",92,"USA","1981 - 1997",1,26
+"The Accidental Tourist",1989,6.8,"Drama",121,"USA","1981 - 1997",4,1755
+"The Accidental Tourist",1989,6.8,"Romance",121,"USA","1981 - 1997",1,336
+"The Accused",1989,7.1,"Crime",111,"Canada, USA","1981 - 1997",2,126
+"The Accused",1989,7.1,"Drama",111,"Canada, USA","1981 - 1997",4,1755
+"The Apartment",1961,8.3,"Comedy",125,"USA","1947 - 1963",1,161
+"The Apartment",1961,8.3,"Drama",125,"USA","1947 - 1963",5,1755
+"The Apartment",1961,8.3,"Romance",125,"USA","1947 - 1963",1,336
+"The Artist",2012,7.9,"Comedy",100,"France, Belgium, USA","1998 - 2014",3,161
+"The Artist",2012,7.9,"Drama",100,"France, Belgium, USA","1998 - 2014",5,1755
+"The Artist",2012,7.9,"Romance",100,"France, Belgium, USA","1998 - 2014",3,336
+"The Aviator",2005,7.5,"Biography",170,"Germany, USA","1998 - 2014",2,147
+"The Aviator",2005,7.5,"Drama",170,"Germany, USA","1998 - 2014",5,1755
+"The Awful Truth",1938,7.7,"Comedy",90,"USA","1930 - 1946",1,161
+"The Awful Truth",1938,7.7,"Romance",90,"USA","1930 - 1946",2,336
+"The Bad And The Beautiful",1953,7.8,"Drama",118,"USA","1947 - 1963",5,1755
+"The Bad And The Beautiful",1953,7.8,"Romance",118,"USA","1947 - 1963",3,336
+"The Barefoot Contessa",1955,7,"Crime",128,"Italy, USA","1947 - 1963",4,126
+"The Barefoot Contessa",1955,7,"Drama",128,"Italy, USA","1947 - 1963",5,1755
+"The Barefoot Contessa",1955,7,"Mystery",128,"Italy, USA","1947 - 1963",1,16
+"The Best Years Of Our Lives",1947,8,"Drama",170,"USA","1947 - 1963",5,1755
+"The Best Years Of Our Lives",1947,8,"Romance",170,"USA","1947 - 1963",5,336
+"The Best Years Of Our Lives",1947,8,"War",170,"USA","1947 - 1963",3,83
+"The Big Country",1959,7.9,"Romance",166,"USA","1947 - 1963",4,336
+"The Big Country",1959,7.9,"Western",166,"USA","1947 - 1963",1,25
+"The Blind Side",2010,7.6,"Biography",129,"USA","1998 - 2014",1,147
+"The Blind Side",2010,7.6,"Drama",129,"USA","1998 - 2014",5,1755
+"The Blind Side",2010,7.6,"Sport",129,"USA","1998 - 2014",1,21
+"The Bridge On The River Kwai",1958,8.1,"Adventure",161,"UK, USA","1947 - 1963",2,38
+"The Bridge On The River Kwai",1958,8.1,"Drama",161,"UK, USA","1947 - 1963",5,1755
+"The Bridge On The River Kwai",1958,8.1,"War",161,"UK, USA","1947 - 1963",2,83
+"The Champ",1932,7.3,"Drama",86,"USA","1930 - 1946",3,1755
+"The Champ",1932,7.3,"Sport",86,"USA","1930 - 1946",1,21
+"The Cider House Rules",2000,7.4,"Drama",126,"USA","1998 - 2014",5,1755
+"The Cider House Rules",2000,7.4,"Romance",126,"USA","1998 - 2014",1,336
+"The Color Of Money",1987,7,"Drama",119,"USA","1981 - 1997",5,1755
+"The Color Of Money",1987,7,"Sport",119,"USA","1981 - 1997",1,21
+"The Constant Gardener",2006,7.4,"Drama",129,"UK, Germany, USA, China, Kenya","1998 - 2014",5,1755
+"The Constant Gardener",2006,7.4,"Mystery",129,"UK, Germany, USA, China, Kenya","1998 - 2014",1,16
+"The Constant Gardener",2006,7.4,"Romance",129,"UK, Germany, USA, China, Kenya","1998 - 2014",2,336
+"The Country Girl",1955,7.3,"Drama",104,"USA","1947 - 1963",5,1755
+"The Country Girl",1955,7.3,"Music",104,"USA","1947 - 1963",1,26
+"The Dark Knight",2009,9,"Action",152,"USA, UK","1998 - 2014",1,11
+"The Dark Knight",2009,9,"Crime",152,"USA, UK","1998 - 2014",1,126
+"The Dark Knight",2009,9,"Drama",152,"USA, UK","1998 - 2014",5,1755
+"The Deer Hunter",1979,8.1,"Drama",183,"USA","1964 - 1980",5,1755
+"The Deer Hunter",1979,8.1,"War",183,"USA","1964 - 1980",4,83
+"The Departed",2007,8.5,"Crime",151,"USA","1998 - 2014",1,126
+"The Departed",2007,8.5,"Drama",151,"USA","1998 - 2014",5,1755
+"The Departed",2007,8.5,"Thriller",151,"USA","1998 - 2014",1,41
+"The Diary Of Anne Frank",1960,7.4,"Biography",180,"USA","1947 - 1963",1,147
+"The Diary Of Anne Frank",1960,7.4,"Drama",180,"USA","1947 - 1963",5,1755
+"The Diary Of Anne Frank",1960,7.4,"Family",180,"USA","1947 - 1963",1,20
+"The Divine Lady",1930,6.3,"Drama",99,"USA","1930 - 1946",2,1755
+"The Divine Lady",1930,6.3,"History",99,"USA","1930 - 1946",1,80
+"The Divine Lady",1930,6.3,"Romance",99,"USA","1930 - 1946",3,336
+"The Divorcee",1930,6.8,"Romance",84,"USA","1930 - 1946",3,336
+"The Divorcee",1930,6.8,"Drama",84,"USA","1930 - 1946",2,1755
+"The English Patient",1997,7.4,"Drama",162,"USA, UK","1981 - 1997",5,1755
+"The English Patient",1997,7.4,"Romance",162,"USA, UK","1981 - 1997",3,336
+"The English Patient",1997,7.4,"War",162,"USA, UK","1981 - 1997",2,83
+"The Farmer's Daughter",1948,7.2,"Comedy",97,"USA","1947 - 1963",2,161
+"The Farmer's Daughter",1948,7.2,"Drama",97,"USA","1947 - 1963",5,1755
+"The Farmer's Daughter",1948,7.2,"Romance",97,"USA","1947 - 1963",3,336
+"The Fighter",2011,7.8,"Biography",116,"USA","1998 - 2014",4,147
+"The Fighter",2011,7.8,"Drama",116,"USA","1998 - 2014",5,1755
+"The Fighter",2011,7.8,"Sport",116,"USA","1998 - 2014",2,21
+"The Fisher King",1992,7.5,"Comedy",137,"USA","1981 - 1997",2,161
+"The Fisher King",1992,7.5,"Drama",137,"USA","1981 - 1997",4,1755
+"The Fisher King",1992,7.5,"Fantasy",137,"USA","1981 - 1997",1,7
+"The Fortune Cookie",1967,7.3,"Comedy",125,"USA","1964 - 1980",1,161
+"The Fortune Cookie",1967,7.3,"Romance",125,"USA","1964 - 1980",1,336
+"The French Connection",1972,7.7,"Action",104,"USA","1964 - 1980",2,11
+"The French Connection",1972,7.7,"Crime",104,"USA","1964 - 1980",3,126
+"The French Connection",1972,7.7,"Drama",104,"USA","1964 - 1980",4,1755
+"The Fugitive",1994,7.8,"Action",130,"USA","1981 - 1997",1,11
+"The Fugitive",1994,7.8,"Crime",130,"USA","1981 - 1997",1,126
+"The Fugitive",1994,7.8,"Drama",130,"USA","1981 - 1997",5,1755
+"The Godfather",1973,9.2,"Crime",175,"USA","1964 - 1980",1,126
+"The Godfather",1973,9.2,"Drama",175,"USA","1964 - 1980",5,1755
+"The Good Earth",1938,7.5,"Drama",138,"USA","1930 - 1946",4,1755
+"The Good Earth",1938,7.5,"Romance",138,"USA","1930 - 1946",2,336
+"The Goodbye Girl",1978,7.4,"Comedy",111,"USA","1964 - 1980",3,161
+"The Goodbye Girl",1978,7.4,"Drama",111,"USA","1964 - 1980",3,1755
+"The Goodbye Girl",1978,7.4,"Romance",111,"USA","1964 - 1980",3,336
+"The Graduate",1968,8,"Comedy",106,"USA","1964 - 1980",2,161
+"The Graduate",1968,8,"Drama",106,"USA","1964 - 1980",4,1755
+"The Graduate",1968,8,"Romance",106,"USA","1964 - 1980",1,336
+"The Grapes Of Wrath",1941,8,"Drama",129,"USA","1930 - 1946",4,1755
+"The Grapes Of Wrath",1941,8,"History",129,"USA","1930 - 1946",2,80
+"The Great Lie",1942,7.2,"Drama",108,"USA","1930 - 1946",5,1755
+"The Great Ziegfeld",1937,6.7,"Biography",176,"USA","1930 - 1946",2,147
+"The Great Ziegfeld",1937,6.7,"Drama",176,"USA","1930 - 1946",5,1755
+"The Great Ziegfeld",1937,6.7,"Musical",176,"USA","1930 - 1946",1,31
+"The Heiress",1950,8.2,"Drama",115,"USA","1947 - 1963",5,1755
+"The Heiress",1950,8.2,"Romance",115,"USA","1947 - 1963",2,336
+"The Help",2012,8.1,"Drama",146,"USA, India, United Arab Emirates, UK, France, Canada, Germany","1998 - 2014",5,1755
+"The Hours",2003,7.5,"Drama",110,"USA, UK, France, Canada, Germany","1998 - 2014",4,1755
+"The Hours",2003,7.5,"Romance",110,"USA, UK, France, Canada, Germany","1998 - 2014",1,336
+"The Hurt Locker",2010,7.6,"Drama",131,"USA","1998 - 2014",5,1755
+"The Hurt Locker",2010,7.6,"Thriller",131,"USA","1998 - 2014",1,41
+"The Hurt Locker",2010,7.6,"War",131,"USA","1998 - 2014",2,83
+"The Informer",1936,7.5,"Crime",91,"USA","1930 - 1946",2,126
+"The Informer",1936,7.5,"Drama",91,"USA","1930 - 1946",3,1755
+"The Iron Lady",2012,6.4,"Biography",105,"UK, France","1998 - 2014",1,147
+"The Iron Lady",2012,6.4,"Drama",105,"UK, France","1998 - 2014",5,1755
+"The Killing Fields",1985,7.8,"Biography",141,"UK","1981 - 1997",3,147
+"The Killing Fields",1985,7.8,"Drama",141,"UK","1981 - 1997",5,1755
+"The Killing Fields",1985,7.8,"History",141,"UK","1981 - 1997",4,80
+"The King And I",1957,7.4,"Biography",133,"USA","1947 - 1963",3,147
+"The King And I",1957,7.4,"Drama",133,"USA","1947 - 1963",5,1755
+"The King And I",1957,7.4,"Musical",133,"USA","1947 - 1963",1,31
+"The King's Speech",2011,8,"Biography",118,"UK, USA, Australia","1998 - 2014",4,147
+"The King's Speech",2011,8,"Drama",118,"UK, USA, Australia","1998 - 2014",5,1755
+"The King's Speech",2011,8,"History",118,"UK, USA, Australia","1998 - 2014",2,80
+"The Last Emperor",1988,7.7,"Biography",163,"UK, Italy, China, France","1981 - 1997",1,147
+"The Last Emperor",1988,7.7,"Drama",163,"UK, Italy, China, France","1981 - 1997",5,1755
+"The Last Emperor",1988,7.7,"History",163,"UK, Italy, China, France","1981 - 1997",1,80
+"The Last King Of Scotland",2007,7.7,"Biography",123,"UK, Germany","1998 - 2014",2,147
+"The Last King Of Scotland",2007,7.7,"Drama",123,"UK, Germany","1998 - 2014",5,1755
+"The Last King Of Scotland",2007,7.7,"History",123,"UK, Germany","1998 - 2014",2,80
+"The Last Picture Show",1972,8,"Drama",118,"USA","1964 - 1980",4,1755
+"The Life Of Emile Zola",1938,7.2,"Biography",116,"USA","1930 - 1946",1,147
+"The Life Of Emile Zola",1938,7.2,"Drama",116,"USA","1930 - 1946",4,1755
+"The Lost Weekend",1946,7.9,"Drama",101,"USA","1930 - 1946",5,1755
+"The Lost Weekend",1946,7.9,"Film-Noir",101,"USA","1930 - 1946",3,16
+"The Miracle Worker",1963,8.1,"Biography",106,"USA","1947 - 1963",3,147
+"The Miracle Worker",1963,8.1,"Drama",106,"USA","1947 - 1963",5,1755
+"The More The Merrier",1944,7.7,"Comedy",104,"USA","1930 - 1946",1,161
+"The More The Merrier",1944,7.7,"Romance",104,"USA","1930 - 1946",2,336
+"The More The Merrier",1944,7.7,"War",104,"USA","1930 - 1946",2,83
+"The Paper Chase",1974,7.2,"Comedy",113,"USA","1964 - 1980",4,161
+"The Paper Chase",1974,7.2,"Drama",113,"USA","1964 - 1980",4,1755
+"The Philadelphia Story",1941,7.9,"Comedy",112,"USA","1930 - 1946",1,161
+"The Philadelphia Story",1941,7.9,"Romance",112,"USA","1930 - 1946",3,336
+"The Pianist",2003,8.5,"Biography",150,"UK, France, Poland, Germany","1998 - 2014",2,147
+"The Pianist",2003,8.5,"Drama",150,"UK, France, Poland, Germany","1998 - 2014",4,1755
+"The Pianist",2003,8.5,"Music",150,"UK, France, Poland, Germany","1998 - 2014",2,26
+"The Piano",1994,7.6,"Drama",121,"New Zealand, Australia, France","1981 - 1997",5,1755
+"The Piano",1994,7.6,"Music",121,"New Zealand, Australia, France","1981 - 1997",2,26
+"The Piano",1994,7.6,"Romance",121,"New Zealand, Australia, France","1981 - 1997",2,336
+"The Prime Of Miss Jean Brodie",1970,7.6,"Drama",116,"UK","1964 - 1980",4,1755
+"The Prime Of Miss Jean Brodie",1970,7.6,"Romance",116,"UK","1964 - 1980",2,336
+"The Queen",2007,7.3,"Biography",103,"UK, USA, France, Italy","1998 - 2014",2,147
+"The Queen",2007,7.3,"Drama",103,"UK, USA, France, Italy","1998 - 2014",5,1755
+"The Queen",2007,7.3,"History",103,"UK, USA, France, Italy","1998 - 2014",2,80
+"The Quiet Man",1953,7.8,"Comedy",129,"USA","1947 - 1963",1,161
+"The Quiet Man",1953,7.8,"Drama",129,"USA","1947 - 1963",5,1755
+"The Quiet Man",1953,7.8,"Romance",129,"USA","1947 - 1963",3,336
+"The Razor's Edge",1947,7.4,"Drama",145,"USA","1947 - 1963",5,1755
+"The Razor's Edge",1947,7.4,"Romance",145,"USA","1947 - 1963",5,336
+"The Reader",2009,7.6,"Drama",124,"Germany, USA","1998 - 2014",5,1755
+"The Reader",2009,7.6,"Romance",124,"Germany, USA","1998 - 2014",3,336
+"The Rose Tattoo",1956,7.1,"Comedy",117,"USA","1947 - 1963",2,161
+"The Rose Tattoo",1956,7.1,"Drama",117,"USA","1947 - 1963",5,1755
+"The Rose Tattoo",1956,7.1,"Romance",117,"USA","1947 - 1963",3,336
+"The Silence Of The Lambs",1992,8.6,"Crime",118,"USA","1981 - 1997",3,126
+"The Silence Of The Lambs",1992,8.6,"Drama",118,"USA","1981 - 1997",4,1755
+"The Silence Of The Lambs",1992,8.6,"Thriller",118,"USA","1981 - 1997",3,41
+"The Sin Of Madelon Claudet",1932,6.7,"Drama",75,"USA","1930 - 1946",3,1755
+"The Song Of Bernadette",1944,7.6,"Biography",156,"USA","1930 - 1946",1,147
+"The Song Of Bernadette",1944,7.6,"Drama",156,"USA","1930 - 1946",4,1755
+"The Sound Of Music",1966,8,"Biography",172,"USA","1964 - 1980",1,147
+"The Sound Of Music",1966,8,"Drama",172,"USA","1964 - 1980",4,1755
+"The Sound Of Music",1966,8,"Family",172,"USA","1964 - 1980",1,20
+"The Sting",1974,8.3,"Comedy",129,"USA","1964 - 1980",4,161
+"The Sting",1974,8.3,"Crime",129,"USA","1964 - 1980",1,126
+"The Sting",1974,8.3,"Drama",129,"USA","1964 - 1980",4,1755
+"The Story Of Louis Pasteur",1937,7.3,"Biography",86,"USA","1930 - 1946",2,147
+"The Story Of Louis Pasteur",1937,7.3,"Drama",86,"USA","1930 - 1946",5,1755
+"The Story Of Louis Pasteur",1937,7.3,"History",86,"USA","1930 - 1946",1,80
+"The Subject Was Roses",1969,7,"Drama",107,"USA","1964 - 1980",5,1755
+"The Sunshine Boys",1976,7.2,"Comedy",111,"USA","1964 - 1980",2,161
+"The Three Faces Of Eve",1958,7.2,"Drama",91,"USA","1947 - 1963",5,1755
+"The Three Faces Of Eve",1958,7.2,"Mystery",91,"USA","1947 - 1963",1,16
+"The Treasure Of The Sierra Madre",1949,8.2,"Adventure",126,"USA, Mexico","1947 - 1963",2,38
+"The Treasure Of The Sierra Madre",1949,8.2,"Drama",126,"USA, Mexico","1947 - 1963",5,1755
+"The Treasure Of The Sierra Madre",1949,8.2,"Western",126,"USA, Mexico","1947 - 1963",2,25
+"The Trip To Bountiful",1986,7.5,"Drama",108,"USA","1981 - 1997",5,1755
+"The Untouchables",1988,7.9,"Crime",119,"USA","1981 - 1997",2,126
+"The Untouchables",1988,7.9,"Drama",119,"USA","1981 - 1997",5,1755
+"The Untouchables",1988,7.9,"Thriller",119,"USA","1981 - 1997",1,41
+"The Usual Suspects",1996,8.5,"Crime",106,"USA, Germany","1981 - 1997",2,126
+"The Usual Suspects",1996,8.5,"Mystery",106,"USA, Germany","1981 - 1997",1,16
+"The Usual Suspects",1996,8.5,"Thriller",106,"USA, Germany","1981 - 1997",1,41
+"The V.i.p.s",1964,6.3,"Drama",119,"UK","1964 - 1980",4,1755
+"The Westerner",1941,7.4,"Drama",100,"USA","1930 - 1946",4,1755
+"The Westerner",1941,7.4,"Romance",100,"USA","1930 - 1946",3,336
+"The Westerner",1941,7.4,"Western",100,"USA","1930 - 1946",1,25
+"The Year Of Living Dangerously",1984,7.1,"Drama",115,"Australia, USA","1981 - 1997",5,1755
+"The Year Of Living Dangerously",1984,7.1,"Romance",115,"Australia, USA","1981 - 1997",1,336
+"The Year Of Living Dangerously",1984,7.1,"War",115,"Australia, USA","1981 - 1997",1,83
+"There Will Be Blood",2008,8.1,"Drama",158,"USA","1998 - 2014",4,1755
+"They Shoot Horses, Don't They?",1970,7.9,"Drama",129,"USA","1964 - 1980",4,1755
+"Titanic",1998,7.8,"Drama",194,"USA","1998 - 2014",5,1755
+"Titanic",1998,7.8,"Romance",194,"USA","1998 - 2014",4,336
+"To Each His Own",1947,7.7,"Drama",122,"USA","1947 - 1963",5,1755
+"To Each His Own",1947,7.7,"Romance",122,"USA","1947 - 1963",5,336
+"To Kill A Mockingbird",1963,8.3,"Crime",129,"USA","1947 - 1963",1,126
+"To Kill A Mockingbird",1963,8.3,"Drama",129,"USA","1947 - 1963",5,1755
+"Tom Jones",1964,6.5,"Adventure",129,"UK","1964 - 1980",1,38
+"Tom Jones",1964,6.5,"Comedy",129,"UK","1964 - 1980",1,161
+"Tom Jones",1964,6.5,"History",129,"UK","1964 - 1980",1,80
+"Tootsie",1983,7.4,"Comedy",116,"USA","1981 - 1997",1,161
+"Tootsie",1983,7.4,"Drama",116,"USA","1981 - 1997",5,1755
+"Tootsie",1983,7.4,"Romance",116,"USA","1981 - 1997",3,336
+"Topkapi",1965,7,"Adventure",120,"USA","1964 - 1980",1,38
+"Topkapi",1965,7,"Comedy",120,"USA","1964 - 1980",3,161
+"Topkapi",1965,7,"Crime",120,"USA","1964 - 1980",1,126
+"Traffic",2001,7.6,"Crime",147,"USA, Mexico, Germany","1998 - 2014",2,126
+"Traffic",2001,7.6,"Drama",147,"USA, Mexico, Germany","1998 - 2014",5,1755
+"Traffic",2001,7.6,"Thriller",147,"USA, Mexico, Germany","1998 - 2014",2,41
+"Training Day",2002,7.7,"Crime",122,"USA","1998 - 2014",1,126
+"Training Day",2002,7.7,"Drama",122,"USA","1998 - 2014",5,1755
+"Training Day",2002,7.7,"Thriller",122,"USA","1998 - 2014",1,41
+"True Grit",1970,7.4,"Adventure",128,"USA","1964 - 1980",1,38
+"True Grit",1970,7.4,"Drama",128,"USA","1964 - 1980",4,1755
+"True Grit",1970,7.4,"Western",128,"USA","1964 - 1980",2,25
+"Twelve O'clock High",1950,7.7,"Drama",132,"USA","1947 - 1963",5,1755
+"Twelve O'clock High",1950,7.7,"War",132,"USA","1947 - 1963",1,83
+"Unforgiven",1993,8.2,"Drama",130,"USA","1981 - 1997",4,1755
+"Unforgiven",1993,8.2,"Western",130,"USA","1981 - 1997",2,25
+"Vicky Cristina Barcelona",2009,7.1,"Comedy",96,"Spain, USA","1998 - 2014",1,161
+"Vicky Cristina Barcelona",2009,7.1,"Drama",96,"Spain, USA","1998 - 2014",5,1755
+"Vicky Cristina Barcelona",2009,7.1,"Romance",96,"Spain, USA","1998 - 2014",3,336
+"Viva Zapata!",1953,7.4,"Biography",113,"USA","1947 - 1963",1,147
+"Viva Zapata!",1953,7.4,"Drama",113,"USA","1947 - 1963",5,1755
+"Viva Zapata!",1953,7.4,"History",113,"USA","1947 - 1963",1,80
+"Walk The Line",2006,7.8,"Biography",136,"USA, Germany","1998 - 2014",2,147
+"Walk The Line",2006,7.8,"Drama",136,"USA, Germany","1998 - 2014",5,1755
+"Walk The Line",2006,7.8,"Music",136,"USA, Germany","1998 - 2014",1,26
+"Wall Street",1988,7.4,"Crime",126,"USA","1981 - 1997",2,126
+"Wall Street",1988,7.4,"Drama",126,"USA","1981 - 1997",5,1755
+"Watch On The Rhine",1944,7.3,"Drama",114,"USA","1930 - 1946",4,1755
+"West Side Story",1962,7.5,"Crime",153,"USA","1947 - 1963",3,126
+"West Side Story",1962,7.5,"Drama",153,"USA","1947 - 1963",5,1755
+"West Side Story",1962,7.5,"Musical",153,"USA","1947 - 1963",3,31
+"Who's Afraid Of Virginia Woolf?",1967,8,"Drama",131,"USA","1964 - 1980",4,1755
+"Women In Love",1971,7.3,"Drama",131,"UK","1964 - 1980",5,1755
+"Women In Love",1971,7.3,"Romance",131,"UK","1964 - 1980",2,336
+"Written On The Wind",1957,7.4,"Drama",99,"USA","1947 - 1963",5,1755
+"Yankee Doodle Dandy",1943,7.7,"Biography",126,"USA","1930 - 1946",1,147
+"Yankee Doodle Dandy",1943,7.7,"Drama",126,"USA","1930 - 1946",4,1755
+"Yankee Doodle Dandy",1943,7.7,"Musical",126,"USA","1930 - 1946",1,31
+"You Can't Take It With You",1939,7.9,"Comedy",126,"USA","1930 - 1946",1,161
+"You Can't Take It With You",1939,7.9,"Drama",126,"USA","1930 - 1946",5,1755
+"You Can't Take It With You",1939,7.9,"Romance",126,"USA","1930 - 1946",4,336
+"The Champ",1933,7.3,"Drama",86,"USA","1930 - 1946",3,1755
+"The Champ",1933,7.3,"Sport",86,"USA","1930 - 1946",1,21
+"Dr. Jekyll And Mr. Hyde",1933,7.6,"Horror",98,"USA","1930 - 1946",1,2
+"Dr. Jekyll And Mr. Hyde",1933,7.6,"Sci-Fi",98,"USA","1930 - 1946",1,4
+"The Sin Of Madelon Claudet",1933,6.7,"Drama",75,"USA","1930 - 1946",3,1755
+"The Private Life Of Henry VIII",1934,7.1,"Biography",97,"UK","1930 - 1946",1,147
+"The Private Life Of Henry VIII",1934,7.1,"Comedy",97,"UK","1930 - 1946",1,161
+"The Private Life Of Henry VIII",1934,7.1,"Drama",97,"UK","1930 - 1946",3,1755
+"Goodbye, Mr. Chips",1940,7.9,"Drama",114,"UK, USA","1930 - 1946",5,1755
+"Goodbye, Mr. Chips",1940,7.9,"Romance",114,"UK, USA","1930 - 1946",4,336
+"The African Queen",1952,7.7,"Adventure",105,"UK, USA","1947 - 1963",1,38
+"The African Queen",1952,7.7,"Drama",105,"UK, USA","1947 - 1963",5,1755
+"The African Queen",1952,7.7,"Romance",105,"UK, USA","1947 - 1963",2,336
+"Judgment at Nuremberg",1962,8.2,"Drama",189,"USA","1947 - 1963",5,1755
+"Judgment at Nuremberg",1962,8.2,"War",189,"USA","1947 - 1963",2,83
+"Two Women",1962,7.8,"Drama",101,"Italy, France","1947 - 1963",5,1755
+"Two Women",1962,7.8,"War",101,"Italy, France","1947 - 1963",2,83
+"Zorba The Greek",1965,7.7,"Comedy",142,"Greece, USA","1964 - 1980",3,161
+"Zorba The Greek",1965,7.7,"Drama",142,"Greece, USA","1964 - 1980",3,1755
+"The Godfather Part II",1975,9,"Crime",202,"USA","1964 - 1980",3,126
+"The Godfather Part II",1975,9,"Drama",202,"USA","1964 - 1980",5,1755
+"Being There",1980,8,"Comedy",130,"USA","1964 - 1980",1,161
+"Being There",1980,8,"Drama",130,"USA","1964 - 1980",5,1755
+"Amadeus",1985,8.3,"Biography",160,"USA","1981 - 1997",3,147
+"Amadeus",1985,8.3,"Drama",160,"USA","1981 - 1997",5,1755
+"Amadeus",1985,8.3,"History",160,"USA","1981 - 1997",4,80
+"My Left Foot",1990,7.9,"Biography",103,"Ireland, UK","1981 - 1997",3,147
+"My Left Foot",1990,7.9,"Drama",103,"Ireland, UK","1981 - 1997",5,1755
+"Good Fellas",1991,7.3,"Biography",146,"USA","1981 - 1997",2,147
+"Good Fellas",1991,7.3,"Crime",146,"USA","1981 - 1997",1,126
+"Good Fellas",1991,7.3,"Drama",146,"USA","1981 - 1997",5,1755
+"Life Is Beautiful",1999,8.6,"Comedy",116,"Italy","1998 - 2014",3,161
+"Life Is Beautiful",1999,8.6,"Drama",116,"Italy","1998 - 2014",5,1755
+"Life Is Beautiful",1999,8.6,"Romance",116,"Italy","1998 - 2014",1,336
+"Mystic River",2004,7.9,"Crime",138,"USA","1998 - 2014",3,126
+"Mystic River",2004,7.9,"Drama",138,"USA","1998 - 2014",5,1755
+"Mystic River",2004,7.9,"Mystery",138,"USA","1998 - 2014",2,16
+"The Lord Of The Rings: The Return Of The King",2004,8.9,"Adventure",201,"New Zealand, USA","1998 - 2014",2,38
+"The Lord Of The Rings: The Return Of The King",2004,8.9,"Drama",201,"New Zealand, USA","1998 - 2014",5,1755
+"The Lord Of The Rings: The Return Of The King",2004,8.9,"Fantasy",201,"New Zealand, USA","1998 - 2014",1,7
+"Beginners",2012,7.2,"Comedy",105,"USA","1998 - 2014",3,161
+"Beginners",2012,7.2,"Drama",105,"USA","1998 - 2014",5,1755
+"Beginners",2012,7.2,"Romance",105,"USA","1998 - 2014",3,336
+"Les Misérables",2013,7.6,"Drama",158,"UK, USA","1998 - 2014",5,1755
+"Les Misérables",2013,7.6,"History",158,"UK, USA","1998 - 2014",2,80
+"Les Misérables",2013,7.6,"Musical",158,"UK, USA","1998 - 2014",1,31
+"Gravity",2014,7.7,"Drama",91,"UK, USA","1998 - 2014",5,1755
+"Gravity",2014,7.7,"Sci-Fi",91,"UK, USA","1998 - 2014",1,4
+"Gravity",2014,7.7,"Thriller",91,"UK, USA","1998 - 2014",1,41
+"Terms Of Endearment",1984,7.4,"Comedy",132,"USA","1981 - 1997",3,161
+"Terms Of Endearment",1984,7.4,"Drama",132,"USA","1981 - 1997",5,1755
