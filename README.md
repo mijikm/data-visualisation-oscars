@@ -20,7 +20,8 @@ great graphing capabilities, using HTML, SVG, and CSS to make webpages interact 
 
 ### Demo
 Click on the GIF below to start navigating.</br></br>
-[<img src="images/oscars.gif" width="500">](https://mijikm.github.io/data-visualisation-oscars/)
+[<img style="margin: 0 auto; float: left" width="500" src="images/oscars.gif">](https://mijikm.github.io/data-visualisation-oscars/)
+</br>
 
 
 ### Data Sources
