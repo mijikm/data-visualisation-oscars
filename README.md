@@ -19,8 +19,8 @@ great graphing capabilities, using HTML, SVG, and CSS to make webpages interact 
 
 
 ### Demo
-Click on the GIF below to start navigating.</br></br>
-[<img style="margin: 0 auto; float: left" width="500" src="images/oscars.gif">](https://mijikm.github.io/data-visualisation-oscars/)
+Click on the GIF below to start navigating.</br>
+[<img style="float: left" width="500" src="images/oscars.gif">](https://mijikm.github.io/data-visualisation-oscars/)
 </br>
 
 
