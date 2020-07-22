@@ -19,7 +19,7 @@ great graphing capabilities, using HTML, SVG, and CSS to make webpages interact 
 
 
 ### User Instructions
-[Click](https://github.com/mijikm/data-visualisation-oscars) to start navigating
+[Click](https://mijikm.github.io/data-visualisation-oscars/) to start navigating
 
 
 ### Data Sources
