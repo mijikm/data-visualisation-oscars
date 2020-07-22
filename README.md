@@ -18,8 +18,9 @@ Visualisation designs were developed using the Five design Sheet (FdS) methodolo
 great graphing capabilities, using HTML, SVG, and CSS to make webpages interact with data.
 
 
-### User Instructions
-[Click](https://mijikm.github.io/data-visualisation-oscars/) to start navigating
+### Demo
+Click the gif below to start navigating.</br></br>
+&nbsp;&nbsp;&nbsp;[<img src="images/oscars_demo.gif" width="500">](https://mijikm.github.io/data-visualisation-oscars/)
 
 
 ### Data Sources
