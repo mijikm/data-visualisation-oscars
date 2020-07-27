@@ -9,8 +9,8 @@ window.onload = function(){
     
     //https://www.d3-graph-gallery.com/graph/barplot_button_data_csv.html
     margin = {top: 20, right: 30, bottom: 70, left: 80},
-            width = 1400 - margin.left - margin.right,
-            height = 500 - margin.top - margin.bottom;
+            width = 1300 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
 
     svg = d3.select("#svgBody")
         .append("svg")

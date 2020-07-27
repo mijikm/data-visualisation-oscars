@@ -9,8 +9,8 @@ var yAxis;
 window.onload = function(){
     
     margin = {top: 20, right: 30, bottom: 70, left: 80},
-            width = 1350 - margin.left - margin.right,
-            height = 430 - margin.top - margin.bottom;
+            width = 1300 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
 
     svg = d3.select("#svgBody2")
         .attr("width", width + margin.left + margin.right)
@@ -296,7 +296,7 @@ function showHeatmap(selectedButton) {
         .attr("id","xText2")
         .attr("transform",
                 "translate(" + (width/2) + " ," + 
-                               (height + margin.top + 20) + ")")
+                               (height + margin.top + 30) + ")")
         .style("text-anchor", "middle")
         .text("Year")
         .attr('font-family', 'Helvetica')

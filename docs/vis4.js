@@ -8,17 +8,18 @@ var y;
 var yAxis;
 var titlePeriod;
 var titleYaxis;
-var titleYaxis2 = "";
+var titleYaxis2;
 var lastData;
 var yValue;
 var stat_sort;
 var sortOption;
+var topBottom;
 
 window.onload = function(){
     
     margin = {top: 20, right: 30, bottom: 70, left: 80},
-            width = 1400 - margin.left - margin.right,
-            height = 430 - margin.top - margin.bottom;
+            width = 1300 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
 
     svg = d3.select("#svgBody3")
         .append("svg")
@@ -46,7 +47,9 @@ window.onload = function(){
     
     titlePeriod = "from 1930 to 2014";
     titleYaxis = "IMDb Score";
+    titleYaxis2 = "";
     sortOption = "descending";
+    topBottom = "Top 10:";
     
     //default to show all period
     getData();
@@ -62,12 +65,12 @@ function addViolinLegend(getYaxis){
     
     if (getYaxis == "IMDb Score"){
        yValueDomain = ["5.0", "5.6", "6.1", "6.7", "7.2", "7.8", "8.3", "8.9", "9.4", "10.0"];
-        shapeSize = 20;
-        rectSize = 250;
+        shapeSize = 16;
+        rectSize = 200;
     } else if (getYaxis == "Runtime"){
         yValueDomain = ["60", "80", "100", "120", "140", "160", "180", "200", "220", "240"];
-        shapeSize = 20;
-        rectSize = 250;
+        shapeSize = 16;
+        rectSize = 200;
     };
 
     var colorScale = d3.scaleOrdinal(d3.interpolateTurbo)
@@ -77,7 +80,7 @@ function addViolinLegend(getYaxis){
     
     svg_legend.append("g")
       .attr("class", "violinLegend")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")").attr("font-size", "10px");
 
     var violinLegend = d3.legendColor()
         .shapeWidth(shapeSize)
@@ -97,7 +100,7 @@ function addViolinLegend(getYaxis){
             .attr("id", "violinLegendText");
     
      svg_legend.append("rect")
-        .attr("x", 65)
+        .attr("x", 70)
         .attr("y", -3)
         .attr("width", rectSize)
         .attr("height", 60)
@@ -151,6 +154,7 @@ function getData(){
         d3.select("#violinLegendText").remove(); 
         d3.select("#violinLegendRect").remove();
         d3.select("#tooltip5").remove();
+        d3.select("#tooltip6").remove();
         updateViolin(selectedOption, data);
        
     }); 
@@ -165,6 +169,7 @@ function getData(){
         d3.select("#violinLegendText").remove(); 
         d3.select("#violinLegendRect").remove();
         d3.select("#tooltip5").remove();
+        d3.select("#tooltip6").remove();
 
         updateViolin2(selectedOption2, lastData);
     }); 
@@ -179,6 +184,7 @@ function getData(){
         d3.select("#violinLegendText").remove(); 
         d3.select("#violinLegendRect").remove();
         d3.select("#tooltip5").remove();
+        d3.select("#tooltip6").remove();
 
     updateViolin3(selectedOption3, lastData);
     }); 
@@ -234,8 +240,10 @@ function updateViolin2(selectedOption, data){
 function updateViolin3(selectedOption, data){
      if (selectedOption == "Descending") {
             sortOption = "descending";
+            topBottom = "Top 10:";
         } else if (selectedOption == "Ascending") {
             sortOption = "ascending";
+            topBottom = "Bottom 10:";
         }
         sortByMedian(data);
 };
@@ -283,9 +291,6 @@ function sortByMedian(data){
         }  else if (sortOption == "ascending"){
             return d3.ascending(a.medianValue, b.medianValue);
         } 
-        //if (a.medianValue == b.medianValue) {
-        //    return d3.ascending(a.genre, b.genre);
-        //} else 
     });
     
     lastData = data;
@@ -330,16 +335,29 @@ function showViolin(data){
             }}).keys();
 
     
-        //tooltip for "Top 10 by Median"
+        //tooltip for "Top 10/Bottom 10 by Median"
+        var div6 = d3.select("body").append("div6")
+            .attr("class","tooltip6")
+            .attr("id", "tooltip6")
+            .style("opacity", 0)
+        
         var div5 = d3.select("body").append("div5")	
             .attr("class", "tooltip5")		
             .attr("id", "tooltip5")
             .style("opacity", 0);
     
         var showStat = function(d){
+            div6.transition()
+                .duration(200)
+                .style("opacity",1)
+            
             div5.transition()
                 .duration(200)
                 .style("opacity",1)
+            
+            div6.html(topBottom)
+                .style("left", d + "px")
+                .style("right", d + "px")
             
             div5.html("1. " + "<strong>" + vars[0]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[0]+ "</strong>" + " " + titleYaxis2 + "<br>2.  " +  "<strong>" + vars[1]+ "</strong>" + ", Median "+ tempMedian + ": " +"<strong>" + vars2[1]+ "</strong>" + " " + titleYaxis2  + "<br>3.  " + "<strong>" + vars[2]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[2]+ "</strong>" + " " + titleYaxis2 + "<br>4.  " + "<strong>" + vars[3]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[3]+ "</strong>" + " " + titleYaxis2  + "<br>5.  " + "<strong>" + vars[4]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[4]+ "</strong>" + " " + titleYaxis2 + "<br>6.  " + "<strong>" + vars[5]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[5]+ "</strong>" + " " + titleYaxis2 + "<br>7.  " + "<strong>" + vars[6]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[6]+ "</strong>" + " " + titleYaxis2 + "<br>8.  " + "<strong>" + vars[7]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[7]+ "</strong>" + " " + titleYaxis2 +"<br>9.  " + "<strong>" + vars[8]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[8]+ "</strong>" + " " + titleYaxis2 + "<br>10.  " + "<strong>" + vars[9]+ "</strong>" + ", Median "+ tempMedian + ": " + "<strong>" + vars2[9]+ "</strong>" + " " + titleYaxis2)  
                 .style("left", d + "px")
@@ -507,7 +525,7 @@ function showViolin(data){
         .attr("id", "xText")
         .attr("transform",
                 "translate(" + (width/2) + " ," + 
-                               (height + margin.top + 20) + ")")
+                               (height + margin.top + 30) + ")")
         .style("text-anchor", "middle")
         .text("Genre")
         .attr('font-family', 'Helvetica')
