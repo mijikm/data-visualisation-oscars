@@ -19,7 +19,7 @@ window.onload = function(){
     
     margin = {top: 20, right: 30, bottom: 70, left: 80},
             width = 1300 - margin.left - margin.right,
-            height = 400 - margin.top - margin.bottom;
+            height = 405 - margin.top - margin.bottom;
 
     svg = d3.select("#svgBody3")
         .append("svg")
